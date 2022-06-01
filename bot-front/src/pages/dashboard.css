@@ -1,0 +1,57 @@
+main.dashboard-main {
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 100%;
+    padding-top: 7rem;
+    background-image: url('https://ik.imagekit.io/foodbychoice/bot/dashboard_1280.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main.dashboard-main::-webkit-scrollbar{
+  display: none;
+}
+
+main.dashboard-main .wrapper{
+  background: rgba(0, 0, 0, 0.4);
+  min-height: 100%;
+  height: fit-content;
+}
+
+main.dashboard-main .user-info{
+  border: 1px solid white;
+}
+
+main.dashboard-main .update-form{
+  background: var(--primary);
+}
+
+main.dashboard-main .text-small{
+  font-size: 1.4rem;
+}
+
+main.dashboard-main hr{
+  background: #329afc;
+}
+
+main.dashboard-main .wrapper input.form-control{
+  margin-bottom: 1rem;
+}
+
+.dashboard-main .user-img-hold{
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  width: 6rem;
+} 
+
+main.dashboard-main .user-info{
+  background: rgba(255, 255, 255, 0.4);
+  color: white;
+}
+
+main.dashboard-main div.sign-hold{
+  width: 7rem;
+}

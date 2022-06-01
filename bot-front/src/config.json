@@ -1,0 +1,249 @@
+{
+    "imgBase" : "https://ik.imagekit.io/foodbychoice/bot",
+    "defaultUserImage" : "https://ik.imagekit.io/foodbychoice/bot/avatar_default.png",
+    "defaultUserSignature" : "",
+    "faqs" : [
+        {
+            "question" : "Which safety accessories will be provided?",
+            "answer" : "Helmet will be provided complimentary along with the bikes, in case, you need more helmet you can rent it from us."
+        },
+        {
+            "question" : "What are the documents needed for booking?",
+            "answer" : "Aadhaar Card and driving licence."
+        },
+        {
+            "question" : "Who can rent a bike from be on time?",
+            "answer" : "Any individual having a valid driving licence for driving in India."
+        }, 
+        {
+            "question" : "What are the insurance policy and fine?",
+            "answer" : "In any case of damage the rider will be responsible for it and the penalties will be charged from the deposited money and also any fine penalties owning to wrongful parking Signal Jumping will be the responsibility of the Rider."   
+        }
+    ],
+    "bikes" : [
+        {
+            "brand" : "Honda",
+            "model" : "Activa 5G",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : true,
+            "booking" : {
+                "fromDate" : "",
+                "toDate" : "",
+                "fromTime" : "",
+                "toTime" : ""
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Hero",
+            "model" : "Duet",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "TVS",
+            "model" : "Jupiter",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : true,
+            "booking" : {
+                "fromDate" : "",
+                "toDate" : "",
+                "fromTime" : "",
+                "toTime" : ""
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "Apprila",
+            "model" : "150 R",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Bajaj",
+            "model" : "Platina",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "Bajaj",
+            "model" : "Platina",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "Honda",
+            "model" : "Pleasure",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Vespa",
+            "model" : "S",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : true,
+            "booking" : {
+                "fromDate" : "",
+                "toDate" : "",
+                "fromTime" : "",
+                "toTime" : ""
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Honda",
+            "model" : "Activa 5G",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : true,
+            "booking" : {
+                "fromDate" : "",
+                "toDate" : "",
+                "fromTime" : "",
+                "toTime" : ""
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Hero",
+            "model" : "Duet",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "TVS",
+            "model" : "Jupiter",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : true,
+            "booking" : {
+                "fromDate" : "",
+                "toDate" : "",
+                "fromTime" : "",
+                "toTime" : ""
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "Apprila",
+            "model" : "150 R",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Bajaj",
+            "model" : "Platina",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "Bajaj",
+            "model" : "Platina",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "12:20",
+                "toTime" : "13:20"
+            },
+            "type" : "B"
+        },
+        {
+            "brand" : "Honda",
+            "model" : "Pleasure",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : false,
+            "booking" : {
+                "fromDate" : "2022-02-16",
+                "toDate" : "2022-02-16",
+                "fromTime" : "10:20",
+                "toTime" : "13:20"
+            },
+            "type" : "S"
+        },
+        {
+            "brand" : "Vespa",
+            "model" : "S",
+            "image" : "https://5.imimg.com/data5/QY/XA/GLADMIN-65464790/honda-activa-5g-scooter-500x500.png",
+            "rent" : 20,
+            "available" : true,
+            "booking" : {
+                "fromDate" : "",
+                "toDate" : "",
+                "fromTime" : "",
+                "toTime" : ""
+            },
+            "type" : "S"
+        }
+    ]
+}

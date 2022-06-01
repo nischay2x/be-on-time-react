@@ -1,0 +1,71 @@
+:root{
+    --primary : #004d85;
+}
+
+
+main{
+    font-family: 'Poppins', sans-serif;
+}
+
+section.hero{
+    background-color: var(--primary);
+}
+
+#hero-carousel .carousel-item{
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+#hero-carousel .carousel-item .w-100.h-100{
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(2px);
+}
+
+.hero-text{
+    text-transform: uppercase; 
+    font-weight: 600;
+    text-shadow: 10px 10px 20px var(--primary);
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .hero-text{
+        font-size: 3rem !important;
+    }
+    .no-small{
+        display: none;
+    }
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+@media (max-width: 992px){
+    .no-mid{
+        display: none;
+    }
+}
+@media (min-width: 992px){
+    .no-big{
+        display: none;
+    }
+}

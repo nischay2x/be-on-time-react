@@ -1,0 +1,163 @@
+{
+    "hirer" : {
+        "serial" : 233,
+        "customerId" : "u72W8nAqJmZBfxDYPctd",
+        "name" : "Someone",
+        "father" : "Some One",
+        "email" : "cha@sss.com",
+        "dob" : "2022-02-08",
+        "date" : "2022-02-08",
+        "adhaar" : "12 digit number",
+        "drivingLicence" : "/^[A-Z]+/",
+        "otherId" : "",
+        "contact" : "10 digit number",
+        "tempAddress" : "",
+        "permanentAddress" : "",
+        "bloodRelative" : {
+            "name" : "Someone",
+            "contact" : "10 digit number",
+            "relation" : "father"
+        }
+    },
+    "undertaking" : {
+        "riderName" : "",
+        "relation" : {
+            "rel" : "S/D/W",
+            "name" : "Someone"
+        },
+        "vehicleNumber" : "",
+        "from" : "new Date()",
+        "to" : "Date()",
+        "sign" : "file"
+    },
+    "admin" : {
+        "before" : {
+            "cleanliness" : "number",
+            "mirror" : "Boolean",
+            "footRest" : "Boolean",
+            "fuel" : "0.5 / 1 / 2 / HT / FT",
+            "cabels" : {
+                "choke" : "Boolean",
+                "clutch" : "Boolean",
+                "milometer" : "Boolean",
+                "accelerator" : "Boolean"
+            },
+            "selfStart" : "Boolean",
+            "brake" : {
+                "front" : "Boolean",
+                "rear" : "Boolean"
+            },
+            "lights" : {
+                "headlight" : "Boolean",
+                "indicator" : "Boolean",
+                "brakeLight" : "Boolean",
+                "fogLamp" : "Boolean"
+            },
+            "battery" : "Boolean",
+            "bodyNoise" : "Boolean",
+            "engineNoise" : "Boolean",
+            "medicalKit" : "Boolean",
+            "toolkit" : "Boolean",
+            "helmet" : "Boolean",
+            "accessories" : "String",
+            "numberPlate" : "Boolean",
+            "agentSign" : "file",
+            "customerSign" : "file",
+            "estimate" : {
+                "hiringDate" : "Date",
+                "returningDate" : "Date"
+            },
+            "odometerReading" : "Number"
+        },
+        "after" : {
+            "cleanliness" : "number",
+            "mirror" : "Boolean",
+            "footRest" : "Boolean",
+            "fuel" : "0.5 / 1 / 2 / HT / FT",
+            "cabels" : {
+                "choke" : "Boolean",
+                "clutch" : "Boolean",
+                "milometer" : "Boolean",
+                "accelerator" : "Boolean"
+            },
+            "selfStart" : "Boolean",
+            "brake" : {
+                "front" : "Boolean",
+                "rear" : "Boolean"
+            },
+            "lights" : {
+                "headlight" : "Boolean",
+                "indicator" : "Boolean",
+                "brakeLight" : "Boolean",
+                "fogLamp" : "Boolean"
+            },
+            "battery" : "Boolean",
+            "bodyNoise" : "Boolean",
+            "engineNoise" : "Boolean",
+            "medicalKit" : "Boolean",
+            "toolkit" : "Boolean",
+            "helmet" : "Boolean",
+            "accessories" : "String",
+            "numberPlate" : "Boolean",
+            "agentSign" : "file",
+            "customerSign" : "file",
+            "estimate" : {
+                "hiringDate" : "Date",
+                "returningDate" : "Date"
+            },
+            "odometerReading" : "Number"
+        },
+        "regNo" : "String",
+        "payment" : {
+            "mode" : "CASH / ONLINE",
+            "advance" : "Number",
+            "total" : "Number",
+            "balance" : "Number"
+        },
+        "deliveryLocation" : "String",
+        "pickUpLocation" : "String",
+        "fines" : {
+            "two_people" : {
+                "done" : "Boolean",
+                "amount" : "Number"
+            },
+            "without_helmet" : {
+                "done" : "Boolean",
+                "amount" : "Number"
+            },
+            "more_than_7kg" : {
+
+            },
+            "city_crossing" : {
+
+            },
+            "participate_race" : {
+
+            },
+            "carry_intoxication" : {
+
+            },
+            "replace_parts" : {
+
+            },
+            "drink_drive" : {
+
+            },
+            "talk_drive" : {
+
+            },
+            "bike_to_another" : {
+
+            },
+            "late_return" : {
+
+            },
+            "mortgage_vehicle" : {
+
+            },
+            "damage_missing_part" : {
+                
+            }
+        }
+    }
+}
